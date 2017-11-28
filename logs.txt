@@ -1,0 +1,45 @@
+Tiene 100 dólaresTus cartas son:
+9 de Picas
+Joker #4
+Su total es: 13
+El concesionario muestra la 9 de CorazonesGolpear (G) o Estar (E)?
+El usuario acierta
+Su tarjeta es la 
+Rey de PicasSu total es ahora 23
+Has fallado al pasar de 21. Pierdes.Otra tarjeta del distribuidor fue el 5 de DiamantesTiene 60 dólaresTus cartas son:
+3 de Picas
+6 de Treboles
+Su total es: 9
+El concesionario muestra la 3 de CorazonesGolpear (G) o Estar (E)?
+El usuario acierta
+Su tarjeta es la 
+2 de TrebolesSu total es ahora 11Tus cartas son:
+3 de Picas
+6 de Treboles
+2 de Treboles
+Su total es: 11
+El concesionario muestra la 3 de CorazonesGolpear (G) o Estar (E)?
+El usuario acierta
+Su tarjeta es la 
+10 de PicasSu total es ahora 21Tus cartas son:
+3 de Picas
+6 de Treboles
+2 de Treboles
+10 de Picas
+Su total es: 21
+El concesionario muestra la 3 de CorazonesGolpear (G) o Estar (E)?
+Tiene 90 dólaresTus cartas son:
+3 de Corazones
+Reina de Picas
+Su total es: 13
+El concesionario muestra la Rey de CorazonesGolpear (G) o Estar (E)?
+El usuario acierta
+Su tarjeta es la 
+5 de CorazonesSu total es ahora 18Tus cartas son:
+3 de Corazones
+Reina de Picas
+5 de Corazones
+Su total es: 18
+El concesionario muestra la Rey de CorazonesGolpear (G) o Estar (E)?
+Tiene 60 dólares
+Sales con $ 60
